@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <circle cx="200" cy="200" r="180" fill="#f8fafc" stroke="#1e3a8a" stroke-width="16" />
+  
+  <g transform="translate(60, 150)">
+    <!-- C -->
+    <path d="M 60 0 C 20 0 0 30 0 60 C 0 90 20 120 60 120 C 80 120 90 110 100 100 L 80 80 C 70 90 60 90 50 80 C 40 70 40 50 50 40 C 60 30 70 30 80 40 L 100 20 C 90 10 80 0 60 0 Z" fill="#166534" />
+    <!-- C -->
+    <path d="M 140 0 C 100 0 80 30 80 60 C 80 90 100 120 140 120 C 160 120 170 110 180 100 L 160 80 C 150 90 140 90 130 80 C 120 70 120 50 130 40 C 140 30 150 30 160 40 L 180 20 C 170 10 160 0 140 0 Z" fill="#e2e8f0" />
+    <!-- S -->
+    <path d="M 220 0 C 190 0 170 20 170 45 C 170 70 190 80 210 85 C 230 90 240 95 240 105 C 240 115 230 120 220 120 C 200 120 190 110 180 100 L 160 120 C 180 140 200 145 220 145 C 250 145 270 125 270 100 C 270 75 250 65 230 60 C 210 55 200 50 200 40 C 200 30 210 25 220 25 C 240 25 250 35 260 45 L 280 25 C 260 5 240 0 220 0 Z" fill="#1e3a8a" />
+  </g>
+
+  <text x="280" y="160" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="#1e3a8a">CORE</text>
+  <text x="280" y="195" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="#1e3a8a">COMPUTING</text>
+  <text x="280" y="230" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="#1e3a8a">SOCIETY</text>
+  
+  <text x="200" y="320" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="#1e3a8a" text-anchor="middle">UNIVERSITY OF PESHAWAR</text>
+</svg>
